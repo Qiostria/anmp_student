@@ -25,7 +25,7 @@ class StudentListFragment : Fragment() {
         binding = FragmentStudentListBinding.inflate(inflater,container, false)
         return binding.root
     }
-
+// TeSTs Comment newxt commit
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
