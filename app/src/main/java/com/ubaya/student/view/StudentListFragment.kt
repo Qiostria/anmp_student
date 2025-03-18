@@ -28,6 +28,9 @@ class StudentListFragment : Fragment() {
 // TeSTs ♡
 
     // BUG FIX
+
+    // BUG FIX 2
+
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
